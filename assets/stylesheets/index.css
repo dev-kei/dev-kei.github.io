@@ -150,6 +150,9 @@ body {
 .header button {
   display: none;
 }
+.header #sidenav img {
+  filter: invert(1);
+}
 .header .mobile_nav {
   display: none;
 }
